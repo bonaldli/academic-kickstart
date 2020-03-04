@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Cloud Computing Researcher"
+  company = "Bell Labs"
+  company_url = "https://www.bell-labs.com/"
+  location = "Stuttgart, Germany"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
+  description = """Research intern in serverless computing, machine learning system based on AWS and Bell Labs System.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Serverless Computing Experiments in AWS and Microfuntions
+  * Performance Analysis, Component Profiling and System Optimization
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "PhD Candidate"
+  company = "Hong Kong University of Science and Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Hong Kong"
+  date_start = "2017-08-01"
+  date_end = ""
+  description = """Research in Big Data Analysis, Machine Learning"""
 
 +++
