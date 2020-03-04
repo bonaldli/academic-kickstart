@@ -75,4 +75,4 @@ user_groups:
 
 Bonald Ziyue LI is  currently doing his third year PhD in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung). He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021) and HKUST Excellent Research Award (2017). 
 
-With the goal to be a Data Scientist, his research interests covers machine learning and big data, specializing in transfer learning, multi-task learning, high-dimensional data, tensor decomposition and completion.  
+With the goal to be a Data Scientist, his research interests cover machine learning and big data, specializing in transfer learning, multi-task learning, high-dimensional data, tensor decomposition and completion.  
