@@ -14,9 +14,9 @@ role: Ph.D. Candidate in Data Analytics
 
 # Organizations/Affiliations
 organizations:
-- name: Hong kong University of Science and Technology
+- name: Hong kong University of Science and Technology (Hong Kong)
   url: "http://qlab.ieda.ust.hk/eng/index.php"
-- name: Nokia Bell Labs
+- name: Nokia Bell Labs (Germany)
   url: "https://www.bell-labs.com/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,11 +33,11 @@ education:
   - course: PhD in Data Analytics
     institution: Hong Kong University of Science and Technology
     year: 2021 (expected)
-  - course: B.Eng in Mechanical Engineering
-    institution: Xi'an JiaoTong University, Univerisity of New South Wales
-    year: 2017
   - course: B.Econ in Finance
-    institution: Xi'an JiaoTong University
+    institution: Xi'an JiaoTong University (XJTU)
+    year: 2017
+  - course: B.Eng in Mechanical Engineering
+    institution: XJTU, Univerisity of New South Wales
     year: 2017
 
 # Social/Academic Networking
@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Bonald Ziyue LI is  currently doing his third year PhD in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung). He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021) and HKUST Excellent Research Award (2017). 
+Bonald Ziyue LI is  currently doing his fourth year PhD in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), collaborating with [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) in Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. 
 
-With the goal to be a Data Scientist, his research interests cover machine learning and big data, specializing in transfer learning, multi-task learning, high-dimensional data, tensor decomposition and completion.  
+He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017), [IEEE CASE](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case) [Best Conference Paper Award](https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/79-ieee-case-spansion-best-conference-paper-award) (2020).
+
+With the goal to be a Data Scientist, his research interests transfer learning, multi-task learning, spatiotemporal analysis, tensor analysis, natural language process and so on. He has also been conducting research in cloud computing and serverless machine learning.

@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = "Complete Guide to AWS Certified Machine Learning - Specialty and Practice Test"
+
+[[item]]
+  organization = "Goethe Institut"
+  organization_url = "https://www.goethe.de/ins/cn/en/sta/hon.html"
+  title = "German B1 Level"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-02-01"
+  date_end = "2020-04-21"
+  description = "Limited Professional Level"
 
 [[item]]
   organization = "Udemy"

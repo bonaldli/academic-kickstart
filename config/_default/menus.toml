@@ -14,10 +14,10 @@
   weight = 20
 
 
-# [[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+ [[main]]
+  name = "Books and Hikes"
+  url = "#posts"
+  weight = 50
 
 
 

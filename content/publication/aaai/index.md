@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction"
-authors: ["admin","Nurettin Dorukhan Sergin"]
-date: 2020-03-04T16:32:57+08:00
-doi: ""
+authors: ["admin","Nurettin Dorukhan Sergin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
+date: 2020-04-03T16:32:57+08:00
+doi: "https://doi.org/10.1609/aaai.v34i04.5915"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-03-04T16:32:57+08:00
+publishDate: 2020-04-03T16:32:57+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,12 +19,12 @@ publication_types: ["1"]
 publication: "AAAI-2020"
 publication_short: ""
 
-abstract: ""
+abstract: "Low-rank tensor decomposition and completion have attracted significant interest from academia given the ubiquity of tensor data. However, the low-rank structure is a global property, which will not be fulfilled when the data presents complex and weak dependencies given specific graph structures. One particular application that motivates this study is the spatiotemporal data analysis. As shown in the preliminary study, weakly dependencies can worsen the low-rank tensor completion performance. In this paper, we propose a novel low-rank CANDECOMP/PARAFAC (CP) tensor decomposition and completion framework by introducing the L1-norm penalty and Graph Laplacian penalty to model the weakly dependency on graph. We further propose an efficient optimization algorithm based on the Block Coordinate Descent for efficient estimation. A case study based on the metro passenger flow data in Hong Kong is conducted to demonstrate improved performance over the regular tensor completion methods."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["AAAI"]
+tags: ["Tensor Decompositoin", "Tensor Completion", "Graph Structure", "Prediction", "Spatiotemporal Analysis"]
 categories: ["AAAI","Conference"]
 featured: false
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/1912.05693.pdf
+url_pdf: https://aaai.org/ojs/index.php/AAAI/article/view/5915
 url_code: https://github.com/bonaldli/WDG_TC.git
 url_dataset:
 url_poster: https://drive.google.com/open?id=19Ysg2IhvoTogM_F9x1j2G9too6BazofL
