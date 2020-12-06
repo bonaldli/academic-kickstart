@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Bonald Ziyue LI
+name: Ziyue LI
 
 # Username (this should match the folder name)
 authors:
@@ -20,13 +20,12 @@ organizations:
   url: "https://www.bell-labs.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big data and machine learning 
+bio: To be a inspiring data science researcher 
 
 interests:
-- Big Data Analysis
+- Data Mining
 - Statistical Learning
 - Machine Learning
-- Cloud Computing
 
 education:
   courses:
@@ -61,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Ziyue_Bonald_LI_CV_Nov2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zlibn@connect.ust.hk"
@@ -73,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-Bonald Ziyue LI is  currently doing his fourth year Ph.D. in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), collaborating with [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) in Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. 
+Bonald Ziyue LI is  currently doing his fourth year Ph.D. in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), collaborating with [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) in Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017).
 
-He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017), [IEEE CASE](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case) [Best Conference Paper Award](https://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/79-ieee-case-spansion-best-conference-paper-award) (2020).
+His research goal targets on high-dimensional data mining methodologies for real-world problems. Specifically, the goal is to build up novel models that preserves the innate data structure, and combines the data-driven methods with domain-specific knowledge, for higher accuracy, efficiency, and interpretability. 
 
-With the goal to be a Data Scientist, his research interests transfer learning, multi-task learning, spatiotemporal analysis, tensor analysis, natural language process and so on. He has also been conducting research in cloud computing and serverless machine learning.
+His current research includes tensor analysis, spatiotemporal high-dimensional data, topic models, transfer learning, and so on. Those methods have been applied into smart manufacturing system, smart transportation. 
