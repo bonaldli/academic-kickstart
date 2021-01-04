@@ -16,8 +16,8 @@ publishDate: 2020-12-06T19:18:44+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
-publication_short: "The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
+publication: "working paper" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
+publication_short: "working paper" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
 
 abstract: " To be released once published"
 

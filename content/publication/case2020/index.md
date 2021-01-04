@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/pdf/2004.11022.pdf
+url_pdf: https://ieeexplore.ieee.org/document/9126133
 url_code:
 url_dataset:
 url_poster:
