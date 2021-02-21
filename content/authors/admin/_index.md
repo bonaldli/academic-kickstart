@@ -60,16 +60,16 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Ziyue_Bonald_LI_CV_Nov2020.pdf
+  link: files/Ziyue_Bonald_LI_CV_Feb2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zlibn@connect.ust.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Bonald Ziyue LI is  currently doing his fourth year Ph.D. in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), collaborating with [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) in Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017).

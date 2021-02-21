@@ -17,15 +17,15 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 37th IEEE International Conference on Data Engineering (ICDE 2021), Ph.D. Symposium Track"
-publication_short: "Submitted to The 37th IEEE International Conference on Data Engineering (ICDE 2021)"
+publication_short: "Accepted and Forthcoming in The 37th IEEE International Conference on Data Engineering (ICDE 2021)"
 
 abstract: "To be released once published"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["Tensor Decomposition", "Topic models", "LDA", "DMM", "Individualized Analysis"]
+categories: ["Conference"]
 featured: false
 
 # Custom links (optional).

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tensor Completion for Weakly-dependent Data on Graph for Metro Passenger Flow Prediction"
-authors: ["admin","Nurettin Dorukhan Sergin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
+authors: ["admin","Nurettin-Dorukhan-Sergin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
 date: 2020-04-03T16:32:57+08:00
 doi: "https://doi.org/10.1609/aaai.v34i04.5915"
 

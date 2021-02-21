@@ -3,29 +3,28 @@
 
 title: "Individualized Passenger Travel Pattern Multi-Clustering based on Tensor Latent Dirichlet Allocation"
 authors: ["admin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
-date: 2020-12-06T19:18:44+08:00
+date: 2021-02-08T19:18:44+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-12-06T19:18:44+08:00
+publishDate: 2021-02-08T19:18:44+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "working paper" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
-publication_short: "working paper" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
+publication: "The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21), Applied Data Science Track" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
+publication_short: "Submitted to 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21)" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
 
 abstract: " To be released once published"
 
 # Summary. An optional shortened abstract.
 summary: ""
-
-tags: []
-categories: []
+tags: ["individualized analysis", "topic model", "tensor", "spatiotemporal data", "graph structure", "online algorithm"]
+categories: ["Conference"]
 featured: false
 
 # Custom links (optional).

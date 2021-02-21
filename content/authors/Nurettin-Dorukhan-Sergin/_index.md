@@ -1,61 +1,61 @@
- ---
+---
 # Display name
-name: "Hao Yan"
+name: "Nurettin Dorukhan Sergin"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- Name "Hao Yan"
+- Name "Nurettin-Dorukhan-Sergin"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Assistant Professor
+role: Ph.D. Student in Industrial Engineering and Machine Learning Engineer at Apple
 
 # Organizations/Affiliations
 organizations:
 - name: Arizona State University
   url: "https://cidse.engineering.asu.edu/"
+- name: Apple
+  url: "https://jobs.apple.com/en-us/search?team=machine-learning-and-ai-SFTWR-MCHLN"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Assistant Professor in School of Computing, Informatics, and Decision Systems Engineering
+bio: 
 
 # List each interest with a dash
 interests:
-- Machine learninng models 
-- Efficient real-time large-scale optimization algorithms
-- High-dimensional data (i.e., Images, profiles, signals) 
-- Anomaly detection and system modeling
+- Machine learning models
+- Complex industrial systems
 
 education:
   courses:
-  - course: Ph.D in Industrial & Systems Engineering
-    institution: Georgia Institue of Technology
-    year: 2012
-  - course: M.S. degree in Statistics, M.S. degree in Computational Science and Engineering
-    institution: Georgia Institue of Technology
+  - course: Ph.D. in Industrial Engineering, Philosophy
+    institution: Arizona State University
+    year: 2022
+  - course: Master Of Science in Industrial Engineering
+    institution: Boğaziçi University
+    year: 2017
+  - course: Bachelor Of Science in Industrial Engineering
+    institution: Boğaziçi University
     year: 2015
-  - course: B.S. degree in Physics and Dual Degree in Economics
-    institution: Peking University
-    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: globe
-  icon_pack: fas
-  link: http://www.public.asu.edu/~hyan46/  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/USERNAME
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dorukhansergin
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=BYXaETgAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=T1sV20kAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/hyan46
+  link: https://github.com/dorukhansergin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +71,5 @@ user_groups:
 - Group 1
 - Group 2
 ---
-Hao Yan is an Assistant Professor in School of Computing, Informatics, and Decision Systems Engineering
+Industrial Engineering Ph.D. candidate with a research focus on Machine Learning applications to complex industrial systems. Currently working as a Machine Learning Engineer Intern at Apple, with an appointment from June 2020 to December 2020. Expected to finish the PhD program in the Summer of 2021. 
+
