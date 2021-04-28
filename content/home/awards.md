@@ -8,6 +8,7 @@ weight = 25  # Order that this section will appear.
 title = "Selected Awards and Honors"
 subtitle = ""
 +++
+* **2nd Runners-up**, [HKUST Three Minute Thesis Competition](https://3mt.hkust.edu.hk/) (2021)
 * **Best Student Paper Award**, [INFORMS 2020 Data Mining Section](https://connect.informs.org/data-mining/awards), **Finalist Award** (2020).
   - _Four finalists out of 40+ high-quality student papers_
 * **Best Student Paper Award**, [INFORMS 2020 Quality, Statistics, and Reliability (QSR) Section](https://connect.informs.org/qsr/awards), **Finalist Award** (2020).
