@@ -4,7 +4,7 @@
 title: "Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns"
 authors: ["admin"]
 date: 2021-01-04T18:20:55+08:00
-doi: ""
+doi: "10.1109/ICDE51399.2021.00320"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-01-04T18:20:55+08:00
@@ -17,9 +17,9 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 37th IEEE International Conference on Data Engineering (ICDE 2021), Ph.D. Symposium Track"
-publication_short: "Accepted and Forthcoming in The 37th IEEE International Conference on Data Engineering (ICDE 2021)"
+publication_short: "The 37th IEEE International Conference on Data Engineering (ICDE 2021)"
 
-abstract: "To be released once published"
+abstract: "Individualized passenger travel pattern is of significant research value since the abundant information from individual trajectory data could help discover the useful insights about the multi-clustering of origin, destination, time, etc., and the passenger cluster. However, this task is rather challenging, given the data is high-dimensional, with complex spatiotemporal structure, and exhibits sparse patterns. Moreover, individual travel patterns are also affected by external information, such as the distances and functions of locations and points of interest, which are ignored in most current works. To tackle these challenges, we proposed two novel frameworks based on topic models with the external information incorporated as graphs: Trips and passengers are formulated as tensor words and tensor documents to preserve data nature; To learn multiclustering, we proposed a graph-regularized tensor Latent Dirichlet Allocation model, with graph structure formulated as Laplacian penalty; To learn passenger clustering, we proposed a graph-based tensor Dirich-let Multinomial Mixture model with graph Laplacian penalty and l 1 -norm penalty for cluster amount auto-determination."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458610
 url_code:
 url_dataset:
 url_poster:

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Individualized Passenger Travel Pattern Multi-Clustering based on Tensor Latent Dirichlet Allocation"
+title: "Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation"
 authors: ["admin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
 date: 2021-02-08T19:18:44+08:00
 doi: ""
@@ -13,11 +13,11 @@ publishDate: 2021-02-08T19:18:44+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21), Applied Data Science Track" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
-publication_short: "Submitted to 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’21)" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
+publication: "Data Mining and Knowledge Discovery" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
+publication_short: "Under review in Data Mining and Knowledge Discovery" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
 
 abstract: " To be released once published"
 

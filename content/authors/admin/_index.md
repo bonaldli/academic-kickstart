@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Ziyue_Bonald_LI_CV_Feb2021.pdf
+  link: files/CV_Ziyue_Bonald_LI_Sept2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zlibn@connect.ust.hk"

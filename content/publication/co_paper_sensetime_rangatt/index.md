@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Profile Decomposition based Hybrid Transfer Learning for Cold-start Data Anomaly Detection"
-authors: ["admin", "Ke-Zhang","Hao-Yan", "Fugee-Tsung"]
-date: 2021-01-04T18:32:48+08:00
+title: "RANG-AT&T: RoAd Network Graph Augmented Transformer for Trajectory Representation Learning"
+authors: [Dedong Li, Zhenyu Mao, "admin", Rui Zhao]
+date: 2021-09-28T16:08:37+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-01-04T18:32:48+08:00
+publishDate: 2021-09-28T16:08:37+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The ACM Transactions in Knowledge Discovery from Data (TKDD)"
-publication_short: "Under revision in The ACM Transactions in Knowledge Discovery from Data (TKDD)"
+publication: "the 36th AAAI Conference on Artificial Intelligence 2022"
+publication_short: "Under review in the 36th AAAI Conference on Artificial Intelligence 2022"
 
-abstract: ""
+abstract: "to be added. Under review in AAAI-2022"
 
 # Summary. An optional shortened abstract.
 summary: ""

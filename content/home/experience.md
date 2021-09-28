@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Machine Learning Researcher"
+  company = "Hong Kong Science Park, SenseTime"
+  company_url = "https://www.hkstp.org/our-partner-companies/our-partners-stories/success-stories/sensetime/"
+  location = "Hong Kong"
+  date_start = "2021-08-16"
+  date_end = ""
+  description = """**Researcher in Machine Learning Algorithms and Smart Cities**.
+
+  Responsibilities include:
+  
+  * Research in machine learning with applications in smart cities.
+  """
+
+[[experience]]
   title = "Cloud Computing Research Scientist"
   company = "Bell Labs"
   company_url = "https://www.bell-labs.com/"
@@ -35,10 +49,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Project Manager"
   company = "MTR Co.-HKUST Project"
-  company_url = ""
+  company_url = "http://www.mtr.com.hk/en/customer/academy/index.html"
   location = "Hong Kong"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """**Research Collaboratoin in Big Data Driven Smart Transporation**.
   
   Responsibilities include:
@@ -48,11 +62,11 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ph.D."
-  company = "Hong Kong University of Science and Technology"
-  company_url = ""
+  company = "The Hong Kong University of Science and Technology"
+  company_url = "https://ieda.ust.hk/eng/index.php"
   location = "Hong Kong"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2021-09-01"
   description = """ **Research in Big Data Analysis, Machine Learning**.
 
   Research experiences include:
