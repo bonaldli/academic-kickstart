@@ -8,6 +8,7 @@ weight = 25  # Order that this section will appear.
 title = "Selected Awards and Honors"
 subtitle = ""
 +++
+* **Best Applied Paper**, [INFORMS 2021 Data Mining and Decision Analytics Workshop](ttps://connect.informs.org/data-mining/awards) (2021)
 * **2nd Runners-up**, [HKUST Three Minute Thesis Competition](https://3mt.hkust.edu.hk/) (2021)
 * **Best Student Paper Award**, [INFORMS 2020 Data Mining Section](https://connect.informs.org/data-mining/awards), **Finalist Award** (2020).
   - _Four finalists out of 40+ high-quality student papers_

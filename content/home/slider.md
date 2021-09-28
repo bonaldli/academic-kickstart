@@ -17,6 +17,22 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "News"
+  content = "* **Sept 2021**: Our latest paper `Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns' enters the INFORMS Data Mining and Decision Analytics Workshop Best Applied Paper Competition (2021). Good Job!"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+[[item]]
+  title = "News"
+  content = "* **Sept 2021**: We submitted four high-quality papers to AAAI-2022, covering smart transportation and multimedia. Fingers crossed!"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+[[item]]
+  title = "News"
+  content = "* **Aug 2021**: I passed my Doctoral Thesis Defense and I am awarded with the Doctor of Philosophy degree in Sept. 2021"
+  align = "left"  # Choose `center`, `left`, or `right`.
+
+
+[[item]]
+  title = "News"
   content = "* **April 28 2021**: I am happy to announce that I was awarded 2nd Runners-up in three minute thesis competition, with my reseach work metro passenger flow tensor prediction. Thank you to all my friends (O*, N*, J*) who helped me!"
   align = "left"  # Choose `center`, `left`, or `right`.
 

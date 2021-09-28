@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Data Analytics
+role: Ph.D. in Data Mining and Machine Learing
 
 # Organizations/Affiliations
 organizations:
-- name: Hong kong University of Science and Technology (Hong Kong)
+- name: Hong Kong University of Science and Technology (Hong Kong)
   url: "http://qlab.ieda.ust.hk/eng/index.php"
 - name: Nokia Bell Labs (Germany)
   url: "https://www.bell-labs.com/"
@@ -24,14 +24,16 @@ bio: To be a inspiring data science researcher
 
 interests:
 - Data Mining
-- Statistical Learning
+- High-dimensional Data, Tensor
+#- Statistical Learning
 - Machine Learning
+- Smart Transportation
 
 education:
   courses:
-  - course: Ph.D. in Data Analytics
+  - course: Ph.D. in Industrial Engineeing and Decision Analytics
     institution: Hong Kong University of Science and Technology
-    year: 2021 (expected)
+    year: 2021
   - course: B.Econ in Finance
     institution: Xi'an JiaoTong University (XJTU)
     year: 2017
@@ -70,10 +72,11 @@ email: "zlibn@connect.ust.hk"
 #user_groups:
 #- Researchers
 #- Visitors
+#Specifically, the goal is to build up novel models that preserves the innate data structure, and combines the data-driven methods with domain-specific knowledge or semantic graphs, for higher accuracy, efficiency, and interpretability.
 ---
 
-Bonald Ziyue LI is  currently doing his fourth year Ph.D. in HKUST, with supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), collaborating with [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) in Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. He is the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017).
+Bonald Ziyue LI obtained his Doctor degree in Industrial Engineering focusing on Data Mining and Machine Learning in The Hong Kong University of Science and Technology.
 
-His research goal targets on high-dimensional data mining methodologies for real-world problems. Specifically, the goal is to build up novel models that preserves the innate data structure, and combines the data-driven methods with domain-specific knowledge, for higher accuracy, efficiency, and interpretability. 
+His research targets on high-dimensional data mining methodologies for real-world problems, including tensor techniques, spatiotemporal high-dimensional data, , interpretable machine learing, knowledge semantic graphs, topic models, transfer learning, and so on. Those methods have been applied into smart manufacturing system, smart transportation, multimedia, and so on. 
 
-His current research includes tensor analysis, spatiotemporal high-dimensional data, topic models, transfer learning, and so on. Those methods have been applied into smart manufacturing system, smart transportation. 
+He actively colloborates with his supervisor [Prof.Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung), [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) from Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University. He was the awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017), 4 Best Paper Awards in internationally recognized venues (2020, 2021).
