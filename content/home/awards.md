@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Selected Awards and Honors"
-subtitle = ""
+subtitle = "[All Awards>>]()"
 +++
 * **Best Applied Paper**, [INFORMS 2021 Data Mining and Decision Analytics Workshop](ttps://connect.informs.org/data-mining/awards) (2021)
 * **2nd Runners-up**, [HKUST Three Minute Thesis Competition](https://3mt.hkust.edu.hk/) (2021)
