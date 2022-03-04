@@ -24,8 +24,8 @@ abstract: "to be added. Under review in AAAI-2022"
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["Transformer", "Graph", "Attention", "Pre-trained Model", "Smart Transportation", "Self-Supervised Learning"]
+categories: ["Conference"]
 featured: false
 
 # Custom links (optional).

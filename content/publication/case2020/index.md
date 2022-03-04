@@ -24,7 +24,7 @@ abstract: "Spatiotemporal data is very common in many applications, such as manu
 # Summary. An optional shortened abstract.
 summary: "This paper is awarded with IEEE CASE 2020 Best Conference Paper Award"
 
-tags: ["Spatiotemporal Analysis", "Tensor Decomposition", "Tensor Completion", "Prediction"]
+tags: ["Spatiotemporal Analysis", "Tensor Decomposition", "Tensor Completion", "Prediction", "Tensor"]
 categories: ["Conference"]
 featured: false
 

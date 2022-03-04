@@ -19,16 +19,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Machine Learning Researcher"
-  company = "Hong Kong Science Park, SenseTime"
-  company_url = "https://www.hkstp.org/our-partner-companies/our-partners-stories/success-stories/sensetime/"
+  company = "SenseTime 商汤科技"
+  company_url = "https://www.sensetime.com/en"
   location = "Hong Kong"
   date_start = "2021-08-16"
-  date_end = ""
+  date_end = "2022-01-01"
   description = """**Researcher in Machine Learning Algorithms and Smart Cities**.
 
   Responsibilities include:
   
-  * Research in machine learning with applications in smart cities.
+  * Conducted frontier research on various topics with three high quality papers in IJCAI and ECCV:
+  * Graph Convolution Network and Reinforcement Learning in Combinational Optimization.
+  * Transformer-based pre-trained models 
+  * Contrastive Learning and Self-Supervised Learning
+  """
+
+[[experience]]
+  title = "Technology Leader of Tomorrow"
+  company = "Hong Kong Science and Technology Park"
+  company_url = "https://www.hkstp.org/"
+  location = "Hong Kong"
+  date_start = "2021-08-16"
+  date_end = "2022-10-16"
+  description = """**11 talents selected out of 900+ talents**.
+
+  Responsibilities include:
+  * Conducted industry research on Computer Vision and Federated Learning;
   """
 
 [[experience]]
@@ -61,7 +77,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Ph.D."
+  title = "Researcher"
   company = "The Hong Kong University of Science and Technology"
   company_url = "https://ieda.ust.hk/eng/index.php"
   location = "Hong Kong"
@@ -70,6 +86,7 @@ date_format = "Jan 2006"
   description = """ **Research in Big Data Analysis, Machine Learning**.
 
   Research experiences include:
+  * Awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017), 6 Best Paper Awards in internationally recognized venues (2020, 2021).
   * **Graph-regularized tensor topic model** (2019 - 2020): individualized analysis, topic model, tensor, spatiotemporal data, graph structure, online algorithm
   * **Tensor decomposition & completion prediction on graph data** (2018 - 2020): tensor, time series prediction, spatio-temporal data, graph structure
   * **Transfer learning for anomaly detection** (2017 - 2019): transfer learning, multi-task learning, outlier, anomaly detection

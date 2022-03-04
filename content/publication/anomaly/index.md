@@ -24,8 +24,8 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
-categories: []
+tags: ["Profile Monitoring", "Functional Data", "Transfer Learning", "Anomaly Detection"]
+categories: ["Journal"]
 featured: false
 
 # Custom links (optional).

@@ -24,7 +24,7 @@ abstract: "Individualized passenger travel pattern is of significant research va
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Tensor Decomposition", "Topic models", "LDA", "DMM", "Individualized Analysis"]
+tags: ["Tensor Decomposition", "Topic Model", "LDA", "DMM", "Individualized Analysis", "Tensor", "Graph"]
 categories: ["Conference"]
 featured: false
 

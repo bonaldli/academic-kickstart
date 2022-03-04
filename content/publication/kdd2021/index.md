@@ -23,7 +23,7 @@ abstract: " To be released once published"
 
 # Summary. An optional shortened abstract.
 summary: ""
-tags: ["individualized analysis", "topic model", "tensor", "spatiotemporal data", "graph structure", "online algorithm"]
+tags: ["Individualized Analysis", "Topic Model", "Tensor", "Spatiotemporal Snalysis", "Graph", "Online Algorithm"]
 categories: ["Conference"]
 featured: false
 

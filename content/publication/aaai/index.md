@@ -24,7 +24,7 @@ abstract: "Low-rank tensor decomposition and completion have attracted significa
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Tensor Decompositoin", "Tensor Completion", "Graph Structure", "Prediction", "Spatiotemporal Analysis"]
+tags: ["Tensor Decomposition", "Tensor Completion", "Graph", "Prediction", "Spatiotemporal Analysis", "Tensor"]
 categories: ["AAAI","Conference"]
 featured: false
 
