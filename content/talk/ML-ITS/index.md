@@ -66,6 +66,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
 ---
 ---------------
 ## **Details:** 
@@ -78,7 +79,10 @@ The syllabus is available [here](https://drive.google.com/open?id=10flGnmEzIsPo6
   - **Location**: Zoom (https://gatech.zoom.us/j/97394420485, Meeting ID: 973 9442 0485) 
   - **Description**: In the first lecture, we will discuss how the high-dimensional data analytics, i.e., tensor methods, could well formulate the traffic data both spatially and temporally, and we will look at the most popular tasks in ITS: demand prediction, and travel pattern clustering. Specifically, we will discuss Tensor Decomposition, Tensor Completion for demand prediction, and Tensor Topic Models for travel pattern clustering.
 
-![Tensor in ITS](tensor.png "caption")
+
+{{<youtube QyoZR-UksQM>}}
+
+
 
 
 #### 2. Lecture Two: Deep Learning in Smart Transportation  
@@ -86,4 +90,6 @@ The syllabus is available [here](https://drive.google.com/open?id=10flGnmEzIsPo6
   - **Location**: Zoom (https://gatech.zoom.us/j/97394420485, Meeting ID: 973 9442 0485) 
   - **Description**: In the second lecture, more deep learning related methods will be introduced. Specifically, we will discuss how Self-Supervised Learning can be leveraged to deal with static time-series data such as traffic flow. We will also discuss how Contrastive Learning could learn more robust representation for dynamic trajectory. Last but not the least, we will also leverage Deep Reinforcement Learning into traffic signal control and Deep Causal Inference into traffic congestion reasoning.
 
-![DL in ITS](dl.png "caption")
+{{<youtube 1BFLL7JT7qM>}}
+
+
