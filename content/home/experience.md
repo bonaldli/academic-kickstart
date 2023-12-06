@@ -18,33 +18,43 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Machine Learning Researcher"
-  company = "SenseTime 商汤科技"
-  company_url = "https://www.sensetime.com/en"
-  location = "Hong Kong"
-  date_start = "2021-08-16"
-  date_end = "2022-01-01"
+  title = "Assistant Professor"
+  company = "University of Cologne"
+  company_url = "https://portal.uni-koeln.de/en/uoc-home"
+  location = "Germany"
+  date_start = "2022-03-01"
+  date_end = ""
   description = """**Researcher in Machine Learning Algorithms and Smart Cities**.
 
   Responsibilities include:
   
-  * Conducted frontier research on various topics with three high quality papers in IJCAI and ECCV:
-  * Graph Convolution Network and Reinforcement Learning in Combinational Optimization.
-  * Transformer-based pre-trained models 
-  * Contrastive Learning and Self-Supervised Learning
+  * Conduct research in spatiotemporal and resource-efficient machine learning
+  * Design and instruct three master courses (Advanced Seminar Machine Learning, Advanced Data Analytics and Deep Learning, and Decision Making under Uncertainty) and one bachelor course (Bachelor Seminar Machine Learning).
   """
 
+
 [[experience]]
-  title = "Technology Leader of Tomorrow"
-  company = "Hong Kong Science and Technology Park"
-  company_url = "https://www.hkstp.org/"
+  title = "Senior Machine Learning Researcher in Smart Mobility"
+  company = "SenseTime Research"
+  company_url = "https://www.sensetime.com/en"
   location = "Hong Kong"
-  date_start = "2021-08-16"
-  date_end = "2022-10-16"
-  description = """**11 talents selected out of 900+ talents**.
+  date_start = "2020-01-01"
+  date_end = "2022-03-01"
+  description = """ **Lead the R&D in AI-driven Smart Mobility**.
 
   Responsibilities include:
-  * Conducted industry research on Computer Vision and Federated Learning;
+  
+  * Led a team of 10 researchers (3 full-time, 5 interns, 1 project manager), conducted front-tier research in smart mobility and spatiotemporal analysis, and delivered 5+ pipelines of AI-driven products, including: 
+    * One machine learning-based traffic data infrastructure platform; 
+    * Traffic Signal Control Systems based on optimization-based and Reinforcement Learning: deployed in an actual city. 
+    * One causal inference-based Traffic congestion management and cause analysis: deployed in an actual city.
+    * Developed our LLMs for traffic domain knowledge and traffic data analysis.
+  
+  * Corresponding research work published in CIKM, KDD, AAAI, ICLR, AAMAS, TMM, and more, with topics including:
+    * Self-supervised learning and contrastive learning.
+    * Reinforcement Learning.
+    * Resource-efficient domain adaptation, transfer learning, and meta-learning.
+  * Admin and Technical support for business needs: interviewed 100+ applicants, gave 5+ research seminars, and so on.
   """
 
 [[experience]]
@@ -67,29 +77,14 @@ date_format = "Jan 2006"
   company = "MTR Co.-HKUST Project"
   company_url = "http://www.mtr.com.hk/en/customer/academy/index.html"
   location = "Hong Kong"
-  date_start = "2020-09-01"
+  date_start = "2019-09-01"
   date_end = "2021-08-31"
   description = """**Research Collaboratoin in Big Data Driven Smart Transporation**.
   
   Responsibilities include:
   * Research project collaboration and management with MTR and Computer Science & Engineering Dept, HKUST, developing an Intelligent Transport System (ITS) for smarter and individualized services based on data-driven methods.
-  """
-
-
-[[experience]]
-  title = "Researcher"
-  company = "The Hong Kong University of Science and Technology"
-  company_url = "https://ieda.ust.hk/eng/index.php"
-  location = "Hong Kong"
-  date_start = "2017-08-01"
-  date_end = "2021-09-01"
-  description = """ **Research in Big Data Analysis, Machine Learning**.
-
-  Research experiences include:
-  * Awardee of [Hong Kong Ph.D Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) (2017-2021), HKUST Excellent Research Award (2017), 6 Best Paper Awards in internationally recognized venues (2020, 2021).
-  * **Graph-regularized tensor topic model** (2019 - 2020): individualized analysis, topic model, tensor, spatiotemporal data, graph structure, online algorithm
-  * **Tensor decomposition & completion prediction on graph data** (2018 - 2020): tensor, time series prediction, spatio-temporal data, graph structure
-  * **Transfer learning for anomaly detection** (2017 - 2019): transfer learning, multi-task learning, outlier, anomaly detection
+  * Delivered the solution for demand prediction, station clustering, passenger individual pattern mining.
   """
 
 +++
+

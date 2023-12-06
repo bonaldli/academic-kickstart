@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Choose A Table: Tensor Dirichlet Process Multinomial Mixture Model with Graphs for Passenger Trajectory Clustering"
-authors: ["admin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
-date: 2021-09-28T15:46:35+08:00
+title: "A Unified Probabilistic Framework for Spatiotemporal Passenger Crowdedness Inference within Urban Rail Transit Network"
+authors: [Min Jiang, Andi Wang, "admin", Fugee Tsung]
+date: 2023-06-14T00:27:27+01:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-09-28T15:46:35+08:00
+publishDate: 2023-12-06T00:27:27+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,16 +16,16 @@ publishDate: 2021-09-28T15:46:35+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "the 36th AAAI Conference on Artificial Intelligence 2022"
-publication_short: "Under review in the 36th AAAI Conference on Artificial Intelligence 2022"
+publication: "2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)"
+publication_short: "IEEE CASE 2023"
 
-abstract: "to be added. Under review in AAAI-2022"
+abstract: "This paper proposes the Spatio-Temporal Crowdedness Inference Model (STCIM), a framework to infer the passenger distribution inside the whole urban rail transit (URT) system in real-time. Our model is practical since the model is designed in a probabilistic manner and only based on the entry and exit timestamps information collected by the automatic fare collection (AFC) system. Firstly, the entire URT system is decomposed into several components of stations and segments. By decomposing a passenger's travel actions into entering, traveling, transferring, and exiting, we build a statistical model to estimate the passengers' lingering time within each component and the passengers' destination based on historical AFC data. Then, the passengers' spatial distribution is predicted in real-time based on each passenger's elapsed travel time and their entry station. The effectiveness of the scheme is validated with a real dataset from a real URT system."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Dirichlet Process", "Topic Model", "Individualized Analysis", "Tensor"]
-categories: ["Conference"]
+tags: ["Smart Mobility", "Spatiotemporal Analysis", "Probabilistic Models", "Trajectory"]
+categories: []
 featured: false
 
 # Custom links (optional).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2306.08343
 url_code:
 url_dataset:
 url_poster:

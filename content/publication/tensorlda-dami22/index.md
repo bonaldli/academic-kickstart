@@ -3,7 +3,7 @@
 
 title: "Individualized Passenger Travel Pattern Multi-Clustering based on Graph Regularized Tensor Latent Dirichlet Allocation"
 authors: ["admin","Hao-Yan", "Chen-Zhang", "Fugee-Tsung"]
-date: 2021-02-08T19:18:44+08:00
+date: 2022-06-18T19:18:44+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Data Mining and Knowledge Discovery" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021), Research Track"
-publication_short: "Under review in Data Mining and Knowledge Discovery" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
+publication_short: "Data Mining and Knowledge Discovery" #"The 37th IEEE International Conference on Data Engineering (ICDE 2021) "
 
-abstract: " To be released once published"
+abstract: " Individual passenger travel patterns have significant value in understanding passenger’s behavior, such as learning the hidden clusters of locations, time, and passengers. The learned clusters further enable commercially beneficial actions such as customized services, promotions, data-driven urban-use planning, peak hour discovery, and so on. However, the individualized passenger modeling is very challenging for the following reasons: 1) The individual passenger travel data are multi-dimensional spatiotemporal big data, including at least the origin, destination, and time dimensions; 2) Moreover, individualized passenger travel patterns usually depend on the external environment, such as the distances and functions of locations, which are ignored in most current works. This work proposes a multi-clustering model to learn the latent clusters along the multiple dimensions of Origin, Destination, Time, and eventually, Passenger (ODT-P). We develop a graph-regularized tensor Latent Dirichlet Allocation (LDA) model by first extending the traditional LDA model into a tensor version and then applies to individual travel data. Then, the external information of stations is formulated as semantic graphs and incorporated as the Laplacian regularizations; Furthermore, to improve the model scalability when dealing with massive data, an online stochastic learning method based on tensorized variational Expectation-Maximization algorithm is developed. Finally, a case study based on passengers in the Hong Kong metro system is conducted and demonstrates that a better clustering performance is achieved compared to state-of-the-arts with the improvement in point-wise mutual information index and algorithm convergence speed by a factor of two."
 
 # Summary. An optional shortened abstract.
 summary: ""
-tags: ["Individualized Analysis", "Topic Model", "Tensor", "Spatiotemporal Snalysis", "Graph", "Online Algorithm"]
+tags: ["Tensor Topic Model", "Tensor", "Spatiotemporal Analysis", "Graph Machine Learning", "Trajectory", "Smart Mobility", "Data Efficiency"]
 categories: ["Conference"]
 featured: false
 
@@ -35,8 +35,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://link.springer.com/article/10.1007/s10618-022-00842-3
+url_code: https://github.com/bonaldli/GR-TensorLDA
 url_dataset:
 url_poster:
 url_project:

@@ -6,12 +6,12 @@ active = true  # Activate this widget? true/false
 weight = 26  # Order that this section will appear.
 
 title = "News"
-subtitle = "[All News>>]()"
+subtitle = "[All News>>](files/allnews.pdf)"
 +++
-* **Mar 2022**: _I joined University of Cologne (Germany) as an Assistant Professor. I am open for applications from potential PhD candidates!_
-* **Sept 2021**: _Our latest paper `Tensor Topic Models with Graphs and Applications on Individualized Travel Patterns' enters the INFORMS Data Mining and Decision Analytics Workshop Best Applied Paper Competition (2021). Good Job!_
-* **Sept 2021**: _We submitted four high-quality papers to AAAI-2022, covering smart transportation and multimedia. Fingers crossed!_
-* **Aug 2021**: _I started my great journey in the greatest AI company, Sensetime, as Data Mining Researcher!_
-* **Aug 2021**: _I passed my Doctoral Thesis Defense and I am awarded with the Doctor of Philosophy degree in Sept. 2021_
-* **April 2021**: _I am happy to announce that I was awarded 2nd Runners-up in three minute thesis competition, with my reseach work metro passenger flow tensor prediction. Thank you to all my friends who helped me!_
-* **April 2021**: _I am happy to announce that I will be the session chair in Data Mining Section, [INFORMS 2021 Annual Meeting](http://meetings2.informs.org/wordpress/anaheim2021/) (CA, U.S.A). Stay tuned!_
+* **Nov 2023**: _One paper accepted to AISTATS 2024_
+* **Oct 2023**: _Two papers were accepted to ACM SIGSPATIAL 2023_
+* **Oct 2023**: _I started to teach the course "Advanced Data Analytics and Deep Learning" for Master Program_
+* **Oct 2023**: _I started to serve as the Sub-Council Member in INFORMS QSR_
+* **Oct 2023**: _I served as Chair in INFORMS Annual Meeting 2023 (Phoenix, Arizona). The two sessions were "Structure Learning from Heterogenous Data" and "Spatiotemporal Decision Intelligence"._
+* **Aug 2023**: _I served as Chair in IEE CASE 2023 (Phoenix, Arizona), with theme in "Spatiotemporal Decision Intelligence"._
+* **Aug 2023**: _I served as Chair in SIGKDD (Long Beach, CA), with theme in "Graph Neural Network"._

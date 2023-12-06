@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Decision Making under Uncertainty (Reinforcement Learning)"
+title: "Advanced Seminar for Machine Learning"
 event:
 event_url:
 location:
@@ -16,12 +16,12 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-01-02T16:15:13+01:00
-date_end: 2023-01-02T16:15:13+01:00
+date: 2023-12-06T23:00:56+01:00
+date_end: 2023-12-06T23:00:56+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2023-01-02T16:15:13+01:00
+publishDate: 2023-12-06T23:00:56+01:00
 
 authors: []
 tags: []
@@ -69,4 +69,5 @@ projects: []
 ## **Details:** 
 
 #### 0. Syllabus:  
-The syllabus is available [here](https://drive.google.com/file/d/1zDPItJeH4J-jrktw_apEXR6q9BJSEwH1/view?usp=sharing)
+The syllabus is available [here](https://drive.google.com/file/d/1zHetIPczpivPBxlHMLVWF-EDz_ZNQcJE/view?usp=sharing)
+

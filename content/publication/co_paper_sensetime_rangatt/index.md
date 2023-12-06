@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "RANG-AT&T: RoAd Network Graph Augmented Transformer for Trajectory Representation Learning"
-authors: [Dedong Li, Zhenyu Mao, "admin", Rui Zhao]
-date: 2021-09-28T16:08:37+08:00
+title: "A Critical Perceptual Pre-trained Model for Complex Trajectory Recovery"
+authors: [Dedong Li, "admin", Zhishuai Li, Lei Bai, Qingyuan Gong, Lijun Sun, Wolfgang Ketter, Rui Zhao]
+date: 2023-11-05T16:08:37+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-09-28T16:08:37+08:00
+publishDate: 2023-12-04T16:08:37+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,15 +16,15 @@ publishDate: 2021-09-28T16:08:37+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "the 36th AAAI Conference on Artificial Intelligence 2022"
-publication_short: "Under review in the 36th AAAI Conference on Artificial Intelligence 2022"
+publication: "31st ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems"
+publication_short: "SIGSPATIAL 2023"
 
-abstract: "to be added. Under review in AAAI-2022"
+abstract: "The trajectory on the road traffic is commonly collected at a low sampling rate, and trajectory recovery aims to recover a complete and continuous trajectory from the sparse and discrete inputs. Recently, sequential language models have been innovatively adopted for trajectory recovery in a pre-trained manner: it learns road segment representation vectors, which will be used in the downstream tasks. However, existing methods are incapable of handling complex trajectories: when the trajectory crosses remote road segments or makes several turns, which we call critical nodes, the quality of learned representations deteriorates, and the recovered trajectories skip the critical nodes. This work is dedicated to offering a more robust trajectory recovery for complex trajectories. Firstly, we define the trajectory complexity based on the detour score and entropy score and construct the complexity-aware semantic graphs correspondingly. Then, we propose a Multi-view Graph and Complexity Aware Transformer (MGCAT) model to encode these semantics in trajectory pre-training from two aspects: 1) adaptively aggregate the multi-view graph features considering trajectory pattern, and 2) higher attention to critical nodes in a complex trajectory. Such that, our MGCAT is perceptual when handling the critical scenario of complex trajectories. Extensive experiments are conducted on large-scale datasets. The results prove that our method learns better representations for trajectory recovery, with 5.22% higher F1-score overall and 8.16% higher F1-score for complex trajectories particularly."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Transformer", "Graph", "Attention", "Pre-trained Model", "Smart Transportation", "Self-Supervised Learning"]
+tags: ["Transformer", "Graph Machine Learning", "Attention", "Pre-trained Model", "Smart Transportation", "Trajectory", "Spatiotemporal Analysis", "Graph Neural Network"]
 categories: ["Conference"]
 featured: false
 
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: https://arxiv.org/abs/2311.02631
+url_code: https://github.com/bonaldli/ComplexTraj
 url_dataset:
 url_poster:
 url_project:

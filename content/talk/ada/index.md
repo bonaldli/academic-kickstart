@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Decision Making under Uncertainty (Reinforcement Learning)"
-event:
+title: "Advanced Data Analytics for Business – Deep Learning"
+event: Winter Semester 2023/2024
 event_url:
 location:
 address:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-01-02T16:15:13+01:00
-date_end: 2023-01-02T16:15:13+01:00
+date: 2023-10-06
+date_end: 2023-12-09
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2023-01-02T16:15:13+01:00
+publishDate: 2023-10-06T22:59:00+01:00
 
-authors: []
-tags: []
+authors: ["admin"]
+tags: ["deep learning"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -33,7 +33,7 @@ featured: false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "The Covarage of This Course"
   focal_point: ""
   preview_only: false
 
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: 
 url_video:
 
 # Markdown Slides (optional).
@@ -69,4 +69,6 @@ projects: []
 ## **Details:** 
 
 #### 0. Syllabus:  
-The syllabus is available [here](https://drive.google.com/file/d/1zDPItJeH4J-jrktw_apEXR6q9BJSEwH1/view?usp=sharing)
+The syllabus is available [here](https://drive.google.com/file/d/1Grt1P-ggqER3k6ahGvmfoNNkxLR_V7vV/view?usp=sharing)
+
+

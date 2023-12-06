@@ -3,11 +3,11 @@
 
 title: "Long-Short Term Spatiotemporal Tensor Prediction for Passenger Flow Profile"
 authors: ["admin", "Hao Yan", "Chen Zhang", "Fugee Tsung"]
-date: 2020-08-22T12:01:43+08:00
+date: 2020-06-25T12:01:43+08:00
 doi: "10.1109/LRA.2020.3004785"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-22T12:01:43+08:00
+publishDate: 2020-06-26T12:01:43+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,7 @@ abstract: "Spatiotemporal data is very common in many applications, such as manu
 # Summary. An optional shortened abstract.
 summary: "This paper is awarded with IEEE CASE 2020 Best Conference Paper Award"
 
-tags: ["Spatiotemporal Analysis", "Tensor Decomposition", "Tensor Completion", "Prediction", "Tensor"]
+tags: ["Spatiotemporal Analysis", "Spatial Time Series", "Tensor Decomposition", "Tensor", "Tensor Completion", "Data Efficiency", "Smart Mobility"]
 categories: ["Conference"]
 featured: false
 
