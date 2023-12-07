@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The ACM Transactions in Knowledge Discovery from Data (TKDD)"
-publication_short: "Under revision in The ACM Transactions in Knowledge Discovery from Data (TKDD)"
+publication_short: "The ACM Transactions in Knowledge Discovery from Data (TKDD)"
 
 abstract: "Anomaly detection is an essential task for quality management in smart manufacturing. An accurate data-driven detection method usually needs enough data and labels. However, in practice, there commonly exist newly set-up processes in manufacturing, and they only have quite limited data available for analysis. Borrowing the name from the recommender system, we call this process a cold-start process. The sparsity of anomaly, the deviation of the profile, and noise aggravate the detection difficulty.
 

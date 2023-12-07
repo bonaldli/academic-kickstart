@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: "This course will equip you with the data analytical techniques that are either the most popular or classic models or the state-of-the-art models in deep learning reign. They are the techniques and practice tools that we really use in the companies (no matter whether it’s REWE, J.P. Morgan, Google, Meta, or BMW). And they are also the domains that are quite dynamically and actively boiling in research."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -71,4 +71,10 @@ projects: []
 #### 0. Syllabus:  
 The syllabus is available [here](https://drive.google.com/file/d/1Grt1P-ggqER3k6ahGvmfoNNkxLR_V7vV/view?usp=sharing)
 
+#### 1. Scope:
+
+Our topics will mainly cover:
+*	The basis of probabilistic theory as the foundation, 
+*	The popular deep learning models including Convolutional Neural Network, Recurrent Neural Network and sequence-to-sequence models, and more.
+*	The state-of-the-art models including Self-Supervised Learning, GPT, and so on.
 

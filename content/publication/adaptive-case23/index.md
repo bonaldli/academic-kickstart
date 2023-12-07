@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Adaptive Case23"
+title: "Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting"
 authors: [Yirong Chen, "admin", Wanli Ouyang, Michael Lepech]
 date: 2023-09-28T00:27:02+01:00
 doi: ""

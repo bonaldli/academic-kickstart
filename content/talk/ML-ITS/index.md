@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Advanced Machine Learning for Smart Transportation"
+title: "Advanced Machine Learning for Smart Transportation (with GaTech)"
 event: "Guest lecture on ISYE 7204 Informatics in Production and Service System at Georgia Tech"
 event_url:
 location: Zoom
