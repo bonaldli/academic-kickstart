@@ -28,18 +28,21 @@ bio: To be a inspiring data science researcher
 
 interests:
 - Spatiotemporal Analysis
-- Resource-efficient ML
-- Smart Transportation
-- High-dimensional Data, Tensor
+- High-dimensional Data 
+- Tensor Decomposition
+- Self-Supervised Learning
+- Transfer / Meta-Learning
+- Large Language Models
 #- Statistical Learning
 #- Statistical & Machine Learning
-- Deep Learning
+#- Time-series Data
+#- Intelligent Transport Systems
 
 
 education:
   courses:
   - course: Ph.D. in Industrial Engineeing and Decision Analytics
-    institution: Hong Kong University of Science and Technology, Hong Kong
+    institution: Hong Kong University of Science and Technology, Arizona State University
     #year: 2021
   - course: Mechanical and Manufacturing Engineering
     institution: Univerisity of New South Wales, Australia
@@ -84,8 +87,7 @@ email: "zlibn@wiso.uni-koeln.de"
 
 ---
 
-Dr. Ziyue LI (Bonald) is an assistant professor in the [Information System Department](https://wirtschaftsinformatik.uni-koeln.de/en/), WiSo Faculty, University of Cologne. He is also the Chief Machine Learning Scientist at [EWI](https://www.ewi.uni-koeln.de/de/). His research focuses on resource-efficient machine learning models for spatiotemporal decision intelligence. High-dimensional tensor (data efficiency) and self-supervised learning (model efficiency) are the two main streams. His work has been published in top-tier venues (AAAI, SIGKDD, NeurIPS, TMM, etc.), awarded with 8+ best paper awards and also deployed in real industries as well-proven products, especially in smart mobility. 
-
-He actively collaborates with academics, _i.e._, [Prof. Fugee Tsung](https://seng.ust.hk/about/people/faculty/fugee-tsung) from Hong Kong University of Science and Technology, [Prof. Hao Yan](http://www.public.asu.edu/~hyan46/) from Arizona State University and [Prof. Chen Zhang](http://www.ie.tsinghua.edu.cn/eng/Show/index/cid/29/id/63.html) from Tsinghua University, as well as industries, [Dr. Rui Zhao](http://zhaorui.xyz/), [Nokia Bell Labs](https://www.bell-labs.com/#gref) (Germany), [HKSTP](https://www.hkstp.org/), and so on.
+Dr. Ziyue LI (Bonald) is an assistant professor in the [Information System Department](https://wirtschaftsinformatik.uni-koeln.de/en/), Department of Information Systems, University of Cologne. His research focuses on **spatiotemporal machine learning models for decision intelligence**. His works have been published as 20+ papers in top-tier AI conferences (IJCAI, AAAI, KDD, ICLR,
+NeurIPS), 9 papers in top journals (TKDE, TITS, TMM), awarded with 10+ best paper awards, and also deployed in real industries as well-proven products, especially in smart mobility.
 
 **Open Positions:** I am always looking for students who are interested in spatiotemporal and smart mobility problems with strong coding abilities. Feel free to shoot me an email. The funding sources are [here](https://drive.google.com/open?id=10klDV4U5yrWh6o8veXGafG2hU7yPjj6e&authuser=bobbyli1994%40gmail.com&usp=drive_fs).

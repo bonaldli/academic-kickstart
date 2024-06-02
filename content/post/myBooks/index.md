@@ -36,7 +36,7 @@ These are the books I have read over the past five years.
   _<i class="fas fa-calendar-week"></i> Date: 2020 Sept_
   {{< figure src="the-art-of-loving.png" title="" width="150" >}}
   Introduction:
-  >This is a good book. I like it
+  >This is a good book. I like it 
 ------------------
 ### <i class="fas fa-book"></i>  "The Road Less Traveled" :us:, <i class="far fa-user"></i> M. Scott Peck
 

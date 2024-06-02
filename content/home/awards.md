@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Selected Awards and Honors"
-subtitle = "[All Awards>>](files/allrewards.pdf)"
+subtitle = "[All Awards>>](/post/my-awards)"
 +++
 * **Peter Luh Young Researcher Award**, [IEEE Robotics and Automation Society](https://case2023.org/awards/), **Runner-up Award** (2023)
 * **ACM Travel Grant Award**, [ACM SIGSPATIAL](https://sigspatial2023.sigspatial.org/awards/), **Winner** (2023)
