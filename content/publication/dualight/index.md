@@ -3,8 +3,8 @@
 
 title: "DuaLight: Enhancing Traffic Signal Control by Leveraging Scenario-Specific and Scenario-Shared Knowledge"
 authors: [Jiaming Lu, Jingqing Ruan, Haoyuan Jiang, "admin", Hangyu Mao, Rui Zhao]
-date: 2024-06-02T18:30:13+02:00
-doi: ""
+date: 2024-05-06T18:30:13+02:00
+doi: "10.5555/3635637.3662986"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-05-06T23:58:01+02:00
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2312.14532
+url_pdf: https://dl.acm.org/doi/10.5555/3635637.3662986
 url_code: https://github.com/lujiaming-12138/DuaLight
 url_dataset: https://github.com/lujiaming-12138/DuaLight
 url_poster:

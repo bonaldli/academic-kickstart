@@ -24,7 +24,7 @@ abstract: "This paper proposes to learn Multi-task, Multi-modal Direct Acyclic G
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Causal Inference", "Traffic Management", "Spatiotemporal Analysis", "Multi-task Learning"]
+tags: ["Causal Learning", "Traffic Management", "Spatiotemporal Analysis", "Multi-task Learning"]
 categories: []
 featured: false
 

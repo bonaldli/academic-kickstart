@@ -3,7 +3,7 @@
 
 title: "PDiT: Interleaving Perception and Decision-making Transformers for Deep Reinforcement Learning"
 authors: [Hangyu Mao, Rui Zhao, "admin", Zhiwei Xu, Hao Chen, Yiqun Chen, Bin Zhang, Zhen Xiao, Junge Zhang, Jiangjin Yin]
-date: 2024-06-02T23:58:01+02:00
+date: 2024-05-06T23:58:01+02:00
 doi: "10.5555/3635637.3662995"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2312.15863
+url_pdf: https://dl.acm.org/doi/10.5555/3635637.3662995
 url_code: https://github.com/maohangyu/PDiT
 url_dataset:
 url_poster:
